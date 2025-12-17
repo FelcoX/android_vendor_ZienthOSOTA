@@ -1,0 +1,4 @@
+Build type: Monthly
+Device: Samsung Galaxy M31 (m31)
+Device maintainer: PARBINDAR7
+Highlights & Device Specific Changes:
